@@ -1,0 +1,11 @@
+{
+  "name": "AFE-BOT",
+  "symbol": "AFE",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "AFE Meme Coin is a fun and secure token designed for VIP signal access.",
+  "website": "https://mrmpbs.com",
+  "explorer": "https://bscscan.com/token/0x2861F446c64c23d026c6B8Feb327079Fcc37155f",
+  "status": "active",
+  "id": "0x2861F446c64c23d026c6B8Feb327079Fcc37155f"
+}
